@@ -45,3 +45,14 @@ Dacă în timpul încărcării butonul de stop este apăsat lung (minim 1 secund
 
 https://github.com/user-attachments/assets/948320c7-91c8-4119-a232-e421793b10f4
 
+
+
+https://github.com/user-attachments/assets/614d1478-1603-440c-8239-09efc97b6981
+
+<img width="937" alt="Screenshot 2024-10-24 at 14 49 49" src="https://github.com/user-attachments/assets/aa615d00-a793-4867-84ab-81a2fa1cfd2c">
+
+
+
+
+
+
