@@ -36,3 +36,12 @@ LED-ul RGB reprezintă disponibilitatea stației. Dacă stația este liberă, LE
 8. LED-ul pentru disponibilitate revine la verde.
 
 Dacă în timpul încărcării butonul de stop este apăsat lung (minim 1 secundă), încărcarea se va întrerupe, iar LED-urile vor clipi de 3 ori pentru a semnala oprirea forțată, după care LED-ul pentru disponibilitate va deveni verde.
+
+### Poze:
+![IMG_2566 2](https://github.com/user-attachments/assets/2ba989f8-85af-4a56-b9ec-02b854b7a389)
+![IMG_2565](https://github.com/user-attachments/assets/476419c8-3201-446b-8dfe-a01e8a2f5e95)
+![IMG_2562](https://github.com/user-attachments/assets/47259baf-78a5-4752-9ca8-4c2d3c6514b5)
+
+
+https://github.com/user-attachments/assets/948320c7-91c8-4119-a232-e421793b10f4
+
